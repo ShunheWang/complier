@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1609315464 source:c:\users\anzen\codeblockswarehouse\preprocessingdemo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantManager.h"
+	"preprocessing.h"
+	"lexmeAnalysis.h"
+
+1609315562 source:c:\users\anzen\codeblockswarehouse\preprocessingdemo\preprocessing.c
+	<stdio.h>
+	<stdlib.h>
+	"constantManager.h"
+	"preprocessing.h"
+
+1609778798 source:c:\users\anzen\codeblockswarehouse\preprocessingdemo\lexmeanalysis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constantManager.h"
+	"headers\\lexmeAnalysis.h"
+
+1609736278 c:\users\anzen\codeblockswarehouse\preprocessingdemo\headers\constantmanager.h
+
+1609315612 c:\users\anzen\codeblockswarehouse\preprocessingdemo\headers\preprocessing.h
+
+1609238579 c:\users\anzen\codeblockswarehouse\preprocessingdemo\headers\\lexmeanalysis.h
+
+1609238579 c:\users\anzen\codeblockswarehouse\preprocessingdemo\headers\lexmeanalysis.h
+
